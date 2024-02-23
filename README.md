@@ -2,7 +2,7 @@
 ---
 
 **Currently**:
-- Developing [multimodal code-generation](https://github.com/reworkd/tarsier) for extracting web data at scale at [Reworkd](https://github.com/reworkd/)
+- Developing [multimodal code-generation](https://github.com/reworkd/tarsier) for extracting web data at scale @ [Reworkd](https://github.com/reworkd/)
 - [Understanding](https://github.com/stanfordnlp/pyvene/blob/main/pyvene/models/blip/modelings_blip_itm.py) how vision-language models build syntactic representations
 - [Fine-tuning](https://github.com/photomz/blackjack-gpt/blob/main/main1.py) LLM agents to play games with online RL
 - Exploring how [scaling laws scale with data complexity](https://twitter.com/khoomeik/status/1741549576241488138)
