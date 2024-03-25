@@ -1,9 +1,9 @@
 **Currently**:
 - 🙈 Developing [multimodal code-generation](https://github.com/reworkd/tarsier) for extracting web data at scale @ [Reworkd AI](https://github.com/reworkd/) (YC S23)
-- 🔬 [Understanding](https://github.com/stanfordnlp/pyvene/blob/main/pyvene/models/blip/modelings_blip_itm.py) how vision-language models build syntactic representations
-- 👾 [Fine-tuning](https://github.com/KhoomeiK/LlamaGym) LLM agents to play games with online RL
 - 📈 Exploring how [scaling laws scale with data complexity](https://github.com/KhoomeiK/complexity-scaling)
+- 🔬 [Understanding](https://github.com/stanfordnlp/pyvene/blob/main/pyvene/models/blip/modelings_blip_itm.py) how vision-language models build syntactic representations
 - ⤴ Scaling up [neural satisfiability solvers](https://github.com/KhoomeiK/SATScale)
+- 👾 [Fine-tuning](https://github.com/KhoomeiK/LlamaGym) LLM agents to play games with online RL
 
 **Previously**:
 - 🎓 Graduated from Carnegie Mellon '23 with Honors in Computer Science
