@@ -1,8 +1,9 @@
 **Currently**:
 - 🙈 Developing [multimodal code-generation](https://github.com/reworkd/tarsier) for extracting web data at scale @ [Reworkd AI](https://github.com/reworkd/) (YC S23)
-- 📈 Exploring how [scaling laws scale with data complexity](https://github.com/KhoomeiK/complexity-scaling)
+- ↩️ Replacing backprop in autoregressive language models
 - 🔬 [Understanding](https://github.com/stanfordnlp/pyvene/blob/main/pyvene/models/blip/modelings_blip_itm.py) how vision-language models build syntactic representations
 - ⤴ Scaling up [neural satisfiability solvers](https://github.com/KhoomeiK/SATScale)
+- 📈 Exploring how [scaling laws scale with data complexity](https://github.com/KhoomeiK/complexity-scaling)
 - 👾 [Fine-tuning](https://github.com/KhoomeiK/LlamaGym) LLM agents to play games with online RL
 
 **Previously**:
