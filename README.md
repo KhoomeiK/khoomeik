@@ -1,5 +1,5 @@
 **Currently**:
-- 🙈 Developing [multimodal code-generation](https://github.com/reworkd/tarsier) for extracting web data at scale @ [Reworkd AI](https://github.com/reworkd/) (YC S23)
+- 🧪 Researching compute-optimal model architecture at OpenAI's Midtraining team
 - 🔬 [Understanding](https://github.com/stanfordnlp/pyvene/blob/main/pyvene/models/blip/modelings_blip_itm.py) how vision-language models build syntactic representations
 - ⤴ Scaling up [neural satisfiability solvers](https://github.com/KhoomeiK/SATScale)
 - 📈 Exploring how [scaling laws scale with data complexity](https://github.com/KhoomeiK/complexity-scaling)
@@ -7,6 +7,7 @@
 - ↩️ [Replacing backprop](https://colab.research.google.com/drive/1ulYQn9TG-beTg7u0lwLmVnqFGIXdGHPh) in autoregressive language models
 
 **Previously**:
+- 🙈 Engineer #1 @ [Reworkd](https://github.com/reworkd/) working on [multimodal code-generation](https://github.com/reworkd/tarsier) for web data extraction
 - 🎓 Graduated from Carnegie Mellon '23 with Honors in Computer Science
   - 🔍 My [thesis](https://arxiv.org/abs/2305.16328) on vision-language semantics is cited by Google Brain, Meta AI, Stanford, etc.
 - 📄 [Published](https://scholar.google.com/citations?user=j7OhJCEAAAAJ&hl=en) papers at ACL, ICLR, EMNLP, & EACL conferences and NeurIPS & ICCV workshops
