@@ -1,5 +1,5 @@
 **Currently**:
-- 🧪 Researching compute-optimal model architecture at OpenAI's Midtraining team
+- 🧪 Researching compute-efficient model architecture at OpenAI's Training team
 - 🔬 [Understanding](https://github.com/stanfordnlp/pyvene/blob/main/pyvene/models/blip/modelings_blip_itm.py) how vision-language models build syntactic representations
 - ⤴ Scaling up [neural satisfiability solvers](https://github.com/KhoomeiK/SATScale)
 - 📈 Exploring how [scaling laws scale with data complexity](https://github.com/KhoomeiK/complexity-scaling)
